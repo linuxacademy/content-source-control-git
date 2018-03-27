@@ -10,3 +10,4 @@ To compile the code, run:
 ###Note:
 No pull requests will be accepted for this repository, as it is meant to be used for demonstration purposes only.  You are free to create a pull request to try it out, but no outside code will be merged into this project.
 
+It is highly recommended that you fork this project on GitHub so that you have full admin access to your own fork.  This way you can practice with pushes and pull requests to see how they are done.
