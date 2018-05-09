@@ -15,3 +15,4 @@ Be sure to have your SSH key set up and that your public key (located in ~/.ssh/
 
 Practice
 PracticeGit on local for push command
+PracticeGit for testing push. whether it updates the same branch or master branch?
