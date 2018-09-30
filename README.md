@@ -14,3 +14,6 @@ It is highly recommended that you fork this project on GitHub so that you have f
 Be sure to have your SSH key set up and that your public key (located in ~/.ssh/id_rsa.pub) is added to your GitHub account.
 moimoi
 TEST2
+
+
+Uutta testiä
