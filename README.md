@@ -23,10 +23,22 @@ To build the program, run:
 make
 ```
 
+To install the program:
+
+```
+sudo make install
+```
+
 To run the program, execute:
 
 ```
-./hi-there
+hi-there
+```
+
+You can uninstall the program by running:
+
+```
+sudo make uninstall
 ```
 
 ### Note:
