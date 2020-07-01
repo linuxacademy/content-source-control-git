@@ -1,5 +1,5 @@
 Our changelog file
-Put notes here: 
+Notes: 
 First test build
 
 #####New Features:
