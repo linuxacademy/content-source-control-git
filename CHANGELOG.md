@@ -1,3 +1,3 @@
-Our changelog file
+Changelog:
 
 #####New Features:
