@@ -1,4 +1,4 @@
-README is edited very humourously ;-}
+README is edited
 ======
 
 A simple application that does nothing useful except to practice with source code.
