@@ -49,3 +49,4 @@ Be sure to have your SSH key set up and that your public key (located in ~/.ssh/
 
 ### Added
 This comment is added
+be sure to have your ssh key set ....
