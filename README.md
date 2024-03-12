@@ -1,4 +1,4 @@
-README
+SBUD README
 ======
 
 A simple application that does nothing useful except to practice with source code.
